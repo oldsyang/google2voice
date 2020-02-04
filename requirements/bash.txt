@@ -1,0 +1,4 @@
+# python2
+requests[security]
+PyExecJS==1.5.1
+Beautifulsoup4==4.8.2
